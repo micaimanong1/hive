@@ -1,2 +1,3 @@
 t4 -- test  add file
 pull -new 1
+pull - new 2
